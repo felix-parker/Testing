@@ -1,5 +1,13 @@
 #**GitPackratR Project Tracking**
-<br>##2020.02.05 AR Meet 10am: 5hrs;Meet1hr
+<br>##**2020.02.12** AmandaRebar Meet 11am; AmyReynolds seminar 10am; 5hrs
+<br> -complete volunteer form signup
+<br> -dl pandoc; rstudio; git desktop
+<br> -considering making testing repo public for AmandaRebar&lab access
+<br> -clone repo to resolve r studio link issue with github for established project
+<br> -template usage for rstudio test the rmd usability
+<br> -test params using dummy data to show AmandaRebar
+<br>##**2020.02.06** 2hrs; github tutorials
+<br>##**2020.02.05** AR Meet 10am: 5hrs;Meet1hr
 <br>*GitHub is like dropbox & googledoc
 <br>*GitHub will need to speak to local repo (file folder), may conflict with CQU permissions
 <br>*GitHub can use markdown (.md) with R code (.rmd) using rmarkdown package
@@ -14,6 +22,6 @@
 <br>*push often!! first commit, push, pull; then branches & pull requests
 <br>**MAIN ISSUE:r studio link with github for established project**
 <br>**NEXT MEET: 2020.02.12 AmyReynolds seminar 10am AmandaRebar 11am**
-<br>##2020.02.06 2hrs;
+
 
  
